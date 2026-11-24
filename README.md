@@ -1,4 +1,3 @@
-[ai-s-eye README_보완1.md](https://github.com/user-attachments/files/35313450/ai-s-eye.README_.1.md)
 # AI's Eye
 
 매장 CCTV 영상과 주문 정보를 이용해 매장 상황을 알려주는 프로젝트입니다.
